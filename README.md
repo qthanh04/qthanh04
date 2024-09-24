@@ -1,5 +1,5 @@
 # 👋 Hi, I'm QThành!
-👩🏻‍💻 I'm studying Cyber Security in my third year at USTH (University of Science and Technology of Hanoi) in my third year <br/>
+👩🏻‍💻 I'm studying Cyber Security in my third year at USTH (University of Science and Technology of Hanoi) <br/>
 💭 Menber at USTH Coder Club(UCC)<br/>
 
 ## 🌐 Socials:
