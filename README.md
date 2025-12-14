@@ -1,6 +1,7 @@
 # 👋 Hi, I'm QThành!
 👨🏻‍💻 I am currently a third-year student majoring in Cyber Security at USTH (University of Science and Technology of Hanoi).
-💭 Menber at USTH Coder Club(UCC)<br/>
+
+💭 Menber at USTH Coder Club(UCC)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/thanh.vuquang.9803) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thanhvuux/) 
